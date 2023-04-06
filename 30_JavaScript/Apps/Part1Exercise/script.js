@@ -15,5 +15,10 @@ var res2 = f1(b);
 var res3 = f1(f1(a - b));
 
 console.log("res1 = " + res1);
+//414
+
 console.log("res2 = " + res2);
-console.log("res3 = " + res3);
+//308
+
+
+// console.log("res3 = " + res3);
